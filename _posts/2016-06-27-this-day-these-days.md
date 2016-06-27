@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-27T17:55:34.719Z'
+datePublished: '2016-06-27T17:55:50.316Z'
 sourcePath: _posts/2016-06-27-this-day-these-days.md
 isBasedOnUrl: 'https://ashiwel.wordpress.com/2012/08/16/this-day-these-days/'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - ochui
 related: []
 author: []
-dateModified: '2016-06-27T17:55:34.016Z'
+dateModified: '2016-06-27T17:55:49.182Z'
 title: ''
 app_links: []
 publisher:
@@ -25,7 +25,7 @@ publisher:
   domain: ashiwel.wordpress.com
 description: ''
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
