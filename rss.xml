@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Vocal Gravity]]></title>
+        <description><![CDATA[Vocal Gravity]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 27 Jun 2016 17:40:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This Day These Days]]></title>
+            <description><![CDATA[<article><h1>This Day These Days</h1><p>This day these days are quiet days, I feel a peace that belies the war Between uncertainty and optimism. And the days wave when they go by But they never wait for me. A million thoughts to dream, The defeated past beneath my feet, Time frozen in time, within time, I keep finding my tested...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/784059d2e8c64b00bd439a40bd285e8f/noop.jpg?input=https%3A%2F%2Fs0.wp.com%2Fi%2Fblank.jpg"></article>]]></description>
+            <link>https://ashiwel.wordpress.com/2012/08/16/this-day-these-days/</link>
+            <guid isPermaLink="false">3203165b-77d2-4c4e-badb-063804e21338</guid>
+            <pubDate>Mon, 27 Jun 2016 17:39:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
