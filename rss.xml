@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Vocal Gravity]]></title>
         <description><![CDATA[Vocal Gravity]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vocal-gravity/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 17:40:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 27 Jun 2016 17:40:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vocal-gravity/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Scars.]]></title>
+            <description><![CDATA[<article><h1>Scars.</h1><p>I. My fascination with healed wounds began as a little boy, through those endless primary school days, when after each football game and after each attempt to dive at the ball in style like I often saw on my neighbor's black and white TV with the twin doors, I'd come home with at least four...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ba2f0ae4f71b629cfa8ef3d81efd785c/noop.jpg?input=https%3A%2F%2Fashiwel.files.wordpress.com%2F2012%2F12%2Fscars-1.jpg"></article>]]></description>
+            <link>https://ashiwel.wordpress.com/2012/12/31/scars/</link>
+            <guid isPermaLink="false">3b828ecd-d0b2-4b4b-9853-c758853d52e9</guid>
+            <pubDate>Mon, 27 Jun 2016 17:39:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This Day These Days]]></title>
             <description><![CDATA[<article><h1>This Day These Days</h1><p>This day these days are quiet days, I feel a peace that belies the war Between uncertainty and optimism. And the days wave when they go by But they never wait for me. A million thoughts to dream, The defeated past beneath my feet, Time frozen in time, within time, I keep finding my tested...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/784059d2e8c64b00bd439a40bd285e8f/noop.jpg?input=https%3A%2F%2Fs0.wp.com%2Fi%2Fblank.jpg"></article>]]></description>
